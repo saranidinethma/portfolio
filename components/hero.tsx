@@ -17,7 +17,7 @@ export default function Hero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.2, duration: 0.8 }}
         >
-          Lorem ipsum
+          Sarani Dinethma
         </motion.h1>
         <motion.p 
           className="text-muted-foreground text-lg mb-8"

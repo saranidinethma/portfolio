@@ -42,25 +42,17 @@ export default function About() {
           transition={{ duration: 0.5, delay: 0.2 }}
         >
           <p className="text-lg text-secondary mb-6">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent
-            imperdiet ante tortor, sit amet mollis erat placerat suscipit. Nulla
-            lobortis et libero sit amet congue.
+          At [Your Business/Brand Name], we are passionate about transforming ideas into powerful digital solutions. Founded by Sarani Dinethma, a dedicated full-stack developer and second-year Computer Science undergraduate at the Informatics Institute of Technology (partnered with the University of Westminster, UK), we specialize in crafting innovative software solutions tailored to modern needs.
           </p>
           
           <div className="bg-card rounded-lg p-6">
             <p className="mb-4">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent imperdiet ante tortor, sit
-              amet mollis erat placerat suscipit. Nulla lobortis et libero sit amet congue. Donec quis odio at
-              augue imperdiet posuere. Sed ullamcorper hendrerit auctor. In laoreet arcu maximus fringilla
-              ornare. Sed quam leo, maximus a sodales scelerisque, lacinia vitae tortor. Aenean tincidunt
-              porttitor pulvinar. Aliquam fermentum consequat orci, sed euismod diam posuere ut.
-              Vestibulum ante massa, rutrum eu enim consequat, tincidunt tincidunt eros.
+            With expertise in the MERN stack, Java, Python, Spring Boot, and Flutter, we build dynamic web and mobile applications that solve real-world challenges. Our strong foundation in data structures, algorithms, and Object-Oriented Programming (OOP) enables us to develop scalable, efficient, and high-performance applications.
             </p>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent imperdiet ante tortor, sit
-              amet mollis erat placerat suscipit. Nulla lobortis et libero sit amet congue. Donec quis odio at
-              augue imperdiet posuere. Sed ullamcorper hendrerit auctor. In laoreet arcu maximus fringilla
-              ornare. Sed quam leo, maximus a sodales scelerisque, lacinia vitae tortor.
+            Beyond technical skills, we value collaboration, leadership, and adaptability—believing that great technology is built through teamwork and creativity. Whether it’s a startup idea, a business transformation, or a personal project, we are excited to bring your vision to life.
+
+Let’s create something extraordinary together!
             </p>
           </div>
         </motion.div>
